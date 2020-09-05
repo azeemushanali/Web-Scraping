@@ -1,0 +1,5 @@
+This is the link for the scraped data through Google Colabs TPU.
+It took more than an hour from my side.The data downloaded has been shared on the Data Folder.
+Link  - 
+
+https://colab.research.google.com/drive/1vZk1CEAX535K4oZFzPsPTPkoUCB_dEPX?usp=sharing
